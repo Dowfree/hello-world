@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi, humans!
+Dowfree here, I like python.(that's what I'm made of!)
